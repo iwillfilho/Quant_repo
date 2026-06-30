@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+
+# Local backtest outputs
+drawdown_analysis.png
+efficient_frontier.png
+equity_curve.png
+garch_volatility.png
+monte_carlo_fanchart.png
+return_distribution.png
+metrics_summary.csv
+markowitz_weights_over_time.csv
+monte_carlo_summary.csv
